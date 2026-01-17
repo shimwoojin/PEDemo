@@ -2,8 +2,26 @@
 
 > **Unreal Engine 4.26 Blueprint**로 구현한 3D MOBA 게임 "리그 오브 레전드" 모작 프로젝트
 
+[![Download on itch.io](https://img.shields.io/badge/Download-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://shimwoojin.itch.io/pedemo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jydxblyq4mM&t=2s)
+
 [![Video](https://img.youtube.com/vi/jydxblyq4mM/maxresdefault.jpg)](https://www.youtube.com/watch?v=jydxblyq4mM&t=2s)
 **▶️ [YouTube 플레이 영상 보기](https://www.youtube.com/watch?v=jydxblyq4mM&t=2s)**
+
+---
+
+## 🎮 다운로드
+
+### **[itch.io에서 게임 다운로드](https://shimwoojin.itch.io/pedemo)**
+
+게임을 직접 플레이해보세요! 다운로드 후 압축 해제만 하면 바로 실행 가능합니다.
+
+#### 💻 시스템 요구사항
+- **OS**: Windows 10/11 (64-bit)
+- **DirectX**: 11 이상
+- **메모리**: 8GB RAM 권장
+- **그래픽**: NVIDIA GTX 1050 / AMD RX 560 이상
+- **저장 공간**: 2GB 이상
 
 ---
 
@@ -142,12 +160,34 @@ GameInstance를 통해 선택한 캐릭터 정보를 레벨 간 전달
 
 ## 🚀 실행 방법
 
-### 📦 필수 요구사항
+### 🎮 방법 1: 다운로드한 게임 플레이 (추천)
+
+1. **[itch.io에서 다운로드](https://shimwoojin.itch.io/pedemo)**
+   
+2. **압축 해제**
+   ```
+   PEDemo-Windows.zip 압축 해제
+   → PEDemo 폴더 생성됨
+   ```
+
+3. **게임 실행**
+   ```
+   PEDemo/PEDemo.exe 실행
+   → 게임 바로 시작!
+   ```
+
+> 💡 **빠른 시작**: 다운로드 → 압축 해제 → 실행 (3단계로 끝!)
+
+---
+
+### 🛠 방법 2: 소스 프로젝트에서 실행 (개발자용)
+
+#### 📦 필수 요구사항
 - **Unreal Engine 4.26**
 - **Windows 10/11**
 - **DirectX 11** 이상
 
-### ⚙️ 실행 단계
+#### ⚙️ 실행 단계
 
 1. **Epic Games Launcher**에서 Unreal Engine 4.26 설치
 
